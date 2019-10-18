@@ -4,7 +4,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 
 const About = () => {
     return (
-        <Layout>
+       
             <div className="about-area py-5">
                 <Container>
                     <Row>
@@ -28,7 +28,7 @@ const About = () => {
                     </Row>
                 </Container>
             </div>
-        </Layout>
+        
     )
 }
 
